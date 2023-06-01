@@ -1,3 +1,3 @@
-module carlosrabelo.com.br/taranis
+module github.com/carlosrabelo/taranis
 
 go 1.18
